@@ -1,0 +1,112 @@
+h1
+{
+color:Orange;
+text-align:center;
+}
+
+h2
+{
+color:blue;
+text-align:center;
+}
+
+h3
+{
+color:blue;
+text-align:center;
+}
+
+h4
+{
+color:blue;
+text-align:center;
+
+}
+
+hr
+{
+color:yellow
+}
+
+pre
+{
+color:Blue;
+font-family:verdana;
+text-align:left;
+border:3px solid Orange;
+}
+
+#b1
+{
+border: 2.5px solid blue;
+border-radius: 5px;
+}
+
+body
+{
+background-image:url("Trans.png"); 
+background-repeat:no-repeat;
+background-image:fixed;
+background-size:19%;
+}
+ 
+.Introform
+{
+padding:10px;
+border:2px solid blue;
+border radius:10px;
+float:center;
+margin-top:2px;
+}
+
+.loginform
+{
+padding:30px;
+border:1px solid pink;
+border radius:10px;
+float:center;
+margin-top:10px;
+}
+
+.formheading
+{
+background-color:orange;
+color:white;
+padding:0.5px;
+text-align:center;
+}
+
+#button1
+{
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 4px 2px;
+cursor: pointer;
+}button1 {
+  background-color: white;
+  color: black;
+  border: 2px solid #4CAF50;
+}
+
+.login
+{
+border:2.5px solid green;
+border-radius: 5px;
+}
+
+.forgotpassword,#b3
+{
+border: 2.5px solid red;
+border-radius: 5px;
+}
+
+captcha
+{
+border: 2.5px solid yellow;
+border-radius: 5px;
+}
+
